@@ -53,6 +53,4 @@ Number of games played: 1
 Games Won: 0
 Games Lost: 1
 
-
-
 My solved exercise of the roadmap problem: [Roadmap Number Guessing Game](https://roadmap.sh/projects/number-guessing-game)
