@@ -30,27 +30,27 @@ Please select the difficulty level:
 3. Hard (3 chances)
 0: Quit
 
-Enter your choice: 3
+Enter your choice: 3.
 Great! You have selected the Hard difficulty level.
 
-attemps nr: 1
-Enter your guess:50
+attemps nr: 1.
+Enter your guess:50.
 Incorrect! The number is greater than 50.
 
-attemps nr: 2
-Enter your guess:80
+attemps nr: 2.
+Enter your guess:80.
 Incorrect! The number is less than 80.
 
-attemps nr: 3
-Enter your guess:70
+attemps nr: 3.
+Enter your guess:70.
 Incorrect! The number is greater than 70.
 Sorry! No more attempts. You lose the game, try again.
 You want to play again?
 1. Yes
 2. No
 2
-Number of games played: 1
-Games Won: 0
-Games Lost: 1
+Number of games played: 1.
+Games Won: 0.
+Games Lost: 1.
 
 My solved exercise of the roadmap problem: [Roadmap Number Guessing Game](https://roadmap.sh/projects/number-guessing-game)
